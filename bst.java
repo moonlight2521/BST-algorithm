@@ -5,7 +5,7 @@
  */
 import java.util.Scanner;
 
-public class cmsc401 {
+public class bst {
 
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
